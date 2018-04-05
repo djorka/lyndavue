@@ -1,2 +1,0 @@
-# lyndavue
-Created with CodeSandbox
